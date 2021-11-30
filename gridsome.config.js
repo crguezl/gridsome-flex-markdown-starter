@@ -15,7 +15,6 @@ if (local) {
 } else {
   config.siteUrl = 'https://crguezl.github.io';
   config.siteName = "Gridsome Flex Markdown Start"; 
-
   config.pathPrefix = '/gridsome-flex-markdown-starter';
 }
 Object.assign(config, {
