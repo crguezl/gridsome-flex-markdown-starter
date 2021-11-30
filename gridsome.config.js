@@ -4,7 +4,21 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
-let config = {
+
+let local = false;
+let config = { outputDir: "docs/" };
+if (local) {
+  config.siteUrl =  "http://localhost:8080";
+  config.siteName = "Gridsome Flex Markdown Start"; 
+  config.pathPrefix = '/gridsome-flex-markdown-starter';
+
+} else {
+  config.siteUrl = 'https://crguezl.github.io';
+  config.siteName = "Gridsome Flex Markdown Start"; 
+
+  config.pathPrefix = '/gridsome-flex-markdown-starter';
+}
+Object.assign(config, {
   siteDescription: "My Starter",
   metadata: {
     siteAuthor: "Me",
@@ -121,15 +135,7 @@ let config = {
       },
     },
   },
-};
+});
 
-local = false;
 
-if (local) {
-  config.siteUrl =  "http://localhost:8080";
-  config.siteName = "Gridsome Flex Markdown Start"; 
-} else {
-  config.siteUrl = 'https://crguezl.github.io';
-  config.pathPrefix = '/gridsome-flex-markdown-starter';
-}
 module.exports = config;

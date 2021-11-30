@@ -1,8 +1,8 @@
 <template>
   <Layout>
-    <PostSummary v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+    <PostSummary v-for="edge in $page.posts.edges.reverse()" :key="edge.node.id" :post="edge.node"/>
 
-    <Pager class="pagination" 
+      <Pager class="pagination" 
       :info="$page.posts.pageInfo" 
       linkClass="btn"
       />
@@ -11,7 +11,7 @@
 
 <page-query>
 query ($page: Int) {
-  posts: allPost(perPage: 10, page: $page, filter: { published: { eq: true }}) @paginate {
+  posts: allPost(perPage: 20, page: $page, filter: { published: { eq: true }}) @paginate {
     pageInfo {
       totalPages
       currentPage

@@ -1,19 +1,19 @@
 ---
 title: Third post
-date: 2021-11-28
+date: 2007-08-18
 tags:
   - gridsome
   - markdown
-  - ULL
-published: True
+published: true
+excerpt: resumen
 category: MyPost
 ---
 
-# Los posts van en content/posts
+## Los posts van en content/posts
 
 ## Deploy to GitHub Pages
 
-See <https://gridsome.org/docs/deploy-to-github/>
+See https://gridsome.org/docs/deploy-to-github/
 
 
 

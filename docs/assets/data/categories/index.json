@@ -1,1 +1,1 @@
-{"hash":"5c770a521695071e6c7f734f7db4b3d65b2ce710","data":{"allCategory":{"edges":[{"node":{"id":"MyPost","title":"MyPost","path":"/category/mypost/","belongsTo":{"totalCount":2}}}]}},"context":{}}
+{"hash":"36a1a1d13e569540db6438ac68b37f68c15a58a6","data":{"allCategory":{"edges":[{"node":{"id":"MyPost","title":"MyPost","path":"/category/mypost/","belongsTo":{"totalCount":3}}}]}},"context":{}}
