@@ -11,7 +11,10 @@ category: MyPost
 
 # Los posts van en content/posts
 
-## Successu perosus patuit
+## Deploy to GitHub Pages
+
+See <https://gridsome.org/docs/deploy-to-github/>
+
 
 Lorem markdownum visa virginis quicquid, hector terrenaque tellure tum ferrum
 Aries vertunt decepto nil rerum mittere est Aiacis equi. Nil pacis adgnovitque
