@@ -28,6 +28,8 @@
         <g-link to="/categories">Categories</g-link>
         <g-link to="/tags">Tags</g-link>
         <g-link to="/feed.atom">ATOM</g-link>
+        <g-link to="https://ull-mii-sytws.github.io/">SYTWS</g-link>
+
       </nav>
 
       <slot />
