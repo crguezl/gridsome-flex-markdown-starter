@@ -1,6 +1,6 @@
 ---
 title: Third post
-date: 2007-08-18
+date: 2021-08-18
 tags:
   - gridsome
   - markdown
@@ -19,10 +19,8 @@ See https://gridsome.org/docs/deploy-to-github/
 
 ## Alma in mandatam iunxit loquendo
 
-Oppositas _volui_, tostos; **ver turba** haud _genu_ modo numquam, nec! Medii
-amplexa? _Nam quo_ totum ut viro ora via precantem tamen possideat dixerat vetus
-puerilibus sequitur sacra auxilium, pinus collo vulnera. Degravat omnis de
-umbram exhorruit, et ora?
+El código se colorea bien:
+
 
 ```js
     if (commercial >= extranet(ssidDigital, pseudocode_file_bps)) {
@@ -53,17 +51,6 @@ Silvis quem, dant sine frementes aether. Esse fortes modum frondes: umeris: sua
 piacula est quo tegi iubeatve. Vir et Bacchi magnum, capillis adunco, memori
 rabie volebat causa, ne tenuisse aer, Clymeneia.
 
-## Feruntur est iam spectabere coepta vices tuetur
-
-Adopertaque praedae furor, Rhoetus lumen digna decor somnia: ante inobservata
-morientis minimum Lilybaeo crura cognoscere ultorem undis? Moderatius deprendere
-qui exclamatque eodem cui quam, sonumque, cursu adpellavere mihi posset
-stravimus crescunt [mihi](http://www.ictusdentes.io/): mihi.
-
-Quam in movet, lugebat et saevit per; victrix in signatum dixit. Ubi corpore
-nobis, membra Picus. Ulla fuerat aptos quid Andraemone legem geminat, Saturnia
-transitque si vulnera terrestribus pando. Mihi dederat. Non _armenta_, mille
-potiuntur adnuit lectus fratrem visus biiugum.
 
 ## Proque forti ducumque
 
